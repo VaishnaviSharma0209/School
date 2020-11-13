@@ -1,0 +1,35 @@
+#About Us{
+    position: absolute;
+    background: linear-gradient(#0328fc 0%, #fc03e3 100%);
+}
+body{
+    text-align: center;
+}
+hr{
+    width: 50px;
+}
+#Day{
+     background: linear-gradient(#0328fc 0%, #fc03e3 100%);
+    margin-top: 50px; 
+}
+#bh{
+    font-size: 30;
+}
+.bl{
+    background-color: red;
+}
+#coh{
+    font-size: 30;
+}
+#ch{
+    font-size: 30;
+}
+#ph{
+    font-size: 30;
+}
+#cmh{
+    font-size: 30;
+}
+#pgh{
+    font-size: 30;
+}
