@@ -33,3 +33,6 @@ hr{
 #pgh{
     font-size: 30;
 }
+.text-primary{
+    cursor: pointer;
+}
