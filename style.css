@@ -35,3 +35,9 @@ hr{
 .text-primary{
     cursor: pointer;
 }
+marquee{
+    background-color: red;
+    color: white;
+    font-size: 25;
+    width: 100%;
+}
